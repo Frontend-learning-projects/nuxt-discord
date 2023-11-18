@@ -1,0 +1,2 @@
+# qwik-discord
+Learning project
