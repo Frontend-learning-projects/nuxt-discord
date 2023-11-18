@@ -1,12 +1,12 @@
-# Qwik Discord
+# Nuxt Discord
 
-This repository contains code of a learning project called: "Qwik Discord".
+This repository contains code of a learning project called: "Nuxt Discord".
 
-It's purpose is to build Discord using the Qwik framework.
+It's purpose is to build Discord using the Nuxt framework.
 
 ## Learning
 
-- Qwik
+- Nuxt
 - Accessibility
 - Performance
 - Semantic HTML
